@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Hey what's up! Starting your simulation.."
+make posix jmavsim
